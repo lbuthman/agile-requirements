@@ -1,1 +1,26 @@
-
+Problems the Product Owner / BA / PM  faces
+  - developers don't read the specifications
+  - developers and testers don't understand the specifications
+  - developers skip parts of the specifications
+  - it is difficult to track progress
+  - it is difficult to perceive the conflicts in business rules and requirements resulting in later change requests
+  
+Problems the Developers faces
+  - functional gaps and inconsistencies in the requirements and specifications don't get flushed out until after dev starts
+  - BA's don't understand the special cases they should
+  - there are no automated tests to help focus the target
+  - it is difficult to share, hand over and/or take over the code
+  
+Problems the Tester faces
+  - no influence on the dev process and an inability to stop the devs from repeating mistakes
+  - poor understanding of the domain
+  - burdened with dull work and an inability to automate verifications with developers
+  - no ability to raise concerns early in the process which diminishes quality and provides no help to the devs
+  - the process is too involved to verify business rules
+  - there is no time or limited time for exploratory testing
+  - diminished / poor releationships with devs and a loss of respect
+  
+  In the wild, agile teams may still have named specialization roles like BA, Test, etc. However, the roles will be
+  distinct from a traditional Waterfall approach. This will, hopefully, be elucidated in the text.
+  
+  This book is a communication technique that fosters mutual understanding. It is a guide, not a prescription.
