@@ -1,1 +1,43 @@
+"The most important issue now is knowning what to build."
 
+- Even if the requirements don't change, there is still a risk of missing the target if the communication
+problem isn't solved.
+
+- The difference between disappointment and delight is a matter of how well the delivery matches expectations.
+
+- Many small communication issues compound, being hard to detect because they do not manifest directly. In
+addition, these haven't been addressed by development processes because it is an issue of the whole team, not
+just the developers. It demands the participation of business proxies and business people.
+
+- Each process of transmission and translation degrades and loses the quality of the communication. 
+
+- Comprehensive specificaiton documents are still likely to omit information and when requirements change,
+don't get updated becoming incorrect. The testers are then left with a document full of omissions, gaps,
+and outdated specificaitons
+
+- The example of the BA's for the big media company being hands off after completing requirements really
+enflames me. This is a bad practice that requires great individuals to overcome, producing good work at best.
+It creates hostility and refusal to comply, which totally misses the benefits from a positive team dynamic.
+
+//Assertion: "Without agile user acceptance testing ... they do not prevent the problem from happening."
+  -> agile requirements gathering to remedy communication problems in specifications does.
+
+- The example of the five pointed star is very interesting. The "obvious" answer is obvious to each person and
+completely dependent on how they interpret/process the task. For this example, any answer is the right answer,
+but for software development, there is only one right answer: the one that the business people/customer thought of.
+
+- When requirements come to developement, things become much more precise. "Everything is vague to a degree
+you do not realize till you have tried to make it precise." On most projects, writing code is the first time
+we try to make the solution precise.
+
+- Describing how and what but leaving out why leaves the project's success to pure chance. Instead of technical
+specification documents, we need to focus on getting the communication right, involving devs and testers
+from the start.
+
+- An issue with requirements is that they tend to focus on what, not why. This focus is basically non-developers
+coming up with a solution, a solution that could be overly-complicated due to a lack of technical acument.
+The business people and clients should be the driving force in gathering requirements but developers and testers
+should be actively involved in that process as well.
+
+- How can group homogeney be measured? To promote cognitive diversity, groups need to be composed of individuals
+that will approach a solution from different perspectives.
