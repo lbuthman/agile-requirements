@@ -25,3 +25,15 @@ if they come in a solution form that omits intent.
   4) Focus the software development effort on the acceptance tests.
   5) Use the set of acceptance tests to facilitate discussion about future change requests, effectively going back
   to step 1 for a new cycle of development.
+  
+- Unit testing in TDD has been very successful, allowing teams to focus on what a system should do, clarify a target,
+facilitate better team work, and hold the system together during changes. This benefit was naturally desired to
+extend to validating Business Rules, but business domain experts most likely do not understand programming
+languages. Developers could write Unit Tests based on these Business Rules, but would still suffer the same problems
+discussed in Ch. 1. Creating better ways for specifying and automating tests for business rules lead to tools that
+focus on the customer's view of how the finished system should work. This is where the term Agile Acceptance
+Testing comes from. The problem is essentially a communication problem, not a technical problem.
+
+- To mitigate the negative implications of "testing" and avoid confusion with UAT, the name is sometimes called
+Acceptance Test Driven Development, Functional Test Driven Development, Test Driven Requirements, and Behavior
+Driven Development. In addition, Example Driven Development is used with tests being called Specification by Example.
