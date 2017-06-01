@@ -1,1 +1,14 @@
+- The first step of BDD is to make sure we all know what we are talking about and. more importantly, all agree
+on this.
 
+- Software developers have technical experience but have no/less experience with the business domain. Their
+assumptions will be different from the business people, putting toothpaste on the wrong side of the brush.
+
+- Realistic examples let us explore ambiguity, edge cases and assumptions. The more real, the better.
+
+- It is important to ellicit comprehensive examples, especially ones where things go wrong. Developers should not
+be making decisions about the business model. A set of criteria follows:
+  1) Normal use
+  2) Abnormal but reasonable use
+  3) Abnormal and unreasonable use
+Unreasonable means something a sane person would not do but could still realistically happen.
