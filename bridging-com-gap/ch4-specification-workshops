@@ -1,1 +1,20 @@
+- Merely expressing specifications via realistic examples instead of abstract sentences is not enough; the
+team needs to have open discussions and ensure everyone understands the same thing.
 
+- The problem with BA's acting as business proxies is that they try to answer questions themselves, rather than
+inquiring with the business.
+
+- If a customer representative/domain expert is not available, be sure to go through examples and cases when
+they are.
+
+- Sometimes a business person will appear bored; this is a warning sign of at least two possible issues:
+  1) The example is not realistic or important to the system.
+  2) You are not talking to the right person. They have no interest or expertise with the given topic and you 
+  need to find someone who does.
+  
+- During workshops, keep the flow going by focusing on what and why, not how it needs to be implemented.
+
+- Feedback exercises include Ambiguity Polls and Planning Poker, aimed at uncovering gaps or opportunities for the
+effort. Another exercise is for a person to provide a case that is normal and then someone else says an unexpected
+event. Everyone writes down how they think the team should react and then compare their results. This will shine
+light on whether everyone is on the same page or not, unmasking assumptions, etc.
