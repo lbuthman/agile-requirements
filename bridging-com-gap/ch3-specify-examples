@@ -12,3 +12,29 @@ be making decisions about the business model. A set of criteria follows:
   2) Abnormal but reasonable use
   3) Abnormal and unreasonable use
 Unreasonable means something a sane person would not do but could still realistically happen.
+
+- Watch out for differences in similar or related examples, this will help expose gaps in functionality. To do this,
+group similar examples close together (on a whiteboard, etc.). For examples with only a couple different variables,
+put them into a table.
+
+- Tables are good in general as a way to flush out cases or increase coverage. New columns will expand over time
+and grow as analysis continues; this is a good thing. Be warned, if nobody is identifying other examples, they
+might not be participating.
+
+- By decomposing a complex solution into simpler specifications, like via Design Boxes, we can focus on individual
+business rules better. For each Decision, there will be at least two or three important cases to cover. This can
+reduce and simplify the case discussion by understanding what each decision adds to the overall solution.
+
+- Decomposing into Decision Boxes can also shed lights on what stories need to be developed first and what can come
+later or in different releases.
+
+- Some examples only make sense in the context of a workflow. In these cases, identify the pre-conditions, the
+workflow steps, and what outcomes are produced. Put simply:
+  1) Given preconditions
+  2) When actions or triggers
+  3) Then consequences
+  
+- The author finds tables more useful for expressing specifications, state machine transitions, and calculations
+based rules.
+
+- Each flow example should focus on a single rule.
