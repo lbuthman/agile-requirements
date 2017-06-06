@@ -1,1 +1,29 @@
+- Examples of system behavior become our acceptance criteria since these are realistic examples that are easily verifiable.
 
+- Avoid keeping two versions of specifications. If, for political or organizational reasons, a company needs sign-off, do so
+on these acceptance criteria tests.
+
+- To transition from the example workshop to usable tests, pair down the list with on representation per example set, making
+sure to include examples that may lead to bugs if not addressed.
+
+- Watch out for test scripts that document a workflow. These tends to focus on how something should be tested rather than
+what needs to be tested. In addition to making it harder to focus on important issues, test scripts that describe how
+over-constrain the implementation.
+
+- Trying to specify too many things at once in a test is problematic, obviously.
+
+- The more irrelevant information you strip from a test, the longer it will stay valid because change and modification will
+not effect it. 
+
+- "Zero quality control" -> ensure that products are produced correctly, this prevents defects in the first place rather
+than discovering them at the end of the process.
+
+- The examples being turned into acceptance tests are first and foremost communication devices.
+
+- A tool that separates test description from test automation allows developers to start automating tests even if there are
+still lingering questions. The structure of the test is unlikely to change, even if the specific values do.
+
+- Customers are used to interact with a system through its interface and will frame examples in these terms. However, most
+of these examples would be better expressed in terms of business logic.
+
+- Automated testing can assure business logic, leaving more time for exploratory and human testing.
