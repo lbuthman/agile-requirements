@@ -1,1 +1,9 @@
+- If you have code not covered in acceptance tests, then consider if it can be deleted. If it can, tis a good thing.
 
+- The author opines that "red-green-refactor" is better suited for acceptance tests. He states that unit tests specify
+technical solutions and can break when we improve the design. The acceptance tests do not change since they are the
+final approval criteria.
+
+- During the specification workshops, a language develops around the project, however, it will not necessarily be 100%
+consistent. It is important to resolve the discrepancies as they arise during the formal naming process in development
+and test creation. Developers should reach out to the customer/business to resolve these things.
