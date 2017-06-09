@@ -1,1 +1,12 @@
+- Treat defects (bugs) as missing tests. Why was it not caught in the first place? Which set of tests would have caught it?
+To be clear, the bug can mean different things, so understanding it and what it really means is a communicaiton opportunity.
 
+- As the code base changes and develops, acceptance tests should undergo housekeeping to remain flexible, useful, and relevant.
+
+- Common symptoms to watch out for in tests
+  * Long tests, especially if they check several rules
+  * Parameters of calculation tests that always have the same values
+  * Similar tests with minor differences
+  * Tests that reflect/mimick how the code was written
+  * Parts of tests are used to set-up other tests
+  * Interdependent tests
