@@ -6,18 +6,18 @@ problem isn't solved.
 - The difference between disappointment and delight is a matter of how well the delivery matches expectations.
 
 - Many small communication issues compound, being hard to detect because they do not manifest directly. In
-addition, these haven't been addressed by development processes because it is an issue of the whole team, not
-just the developers. It demands the participation of business proxies and business people.
+addition, these haven't been addressed by development processes because they are issues of the whole team, not
+just the developers. This demands the participation of business proxies and business people.
 
 - Each process of transmission and translation degrades and loses the quality of the communication. 
 
 - Comprehensive specificaiton documents are still likely to omit information and when requirements change,
 don't get updated becoming incorrect. The testers are then left with a document full of omissions, gaps,
-and outdated specificaitons
+and outdated specificaitons.
 
 - The example of the BA's for the big media company being hands off after completing requirements really
 enflames me. This is a bad practice that requires great individuals to overcome, producing good work at best.
-It creates hostility and refusal to comply, which totally misses the benefits from a positive team dynamic.
+It creates hostility and refusal to comply, which totally misses the benefits of a positive team dynamic.
 
 //Assertion: "Without agile user acceptance testing ... they do not prevent the problem from happening."
   -> agile requirements gathering to remedy communication problems in specifications does.
@@ -35,9 +35,9 @@ specification documents, we need to focus on getting the communication right, in
 from the start.
 
 - An issue with requirements is that they tend to focus on what, not why. This focus is basically non-developers
-coming up with a solution, a solution that could be overly-complicated due to a lack of technical acument.
+coming up with a solution, a solution that could be overly-complicated due to a lack of technical acumen.
 The business people and clients should be the driving force in gathering requirements but developers and testers
 should be actively involved in that process as well.
 
-- How can group homogeney be measured? To promote cognitive diversity, groups need to be composed of individuals
+- How can group homogeneity be measured? To promote cognitive diversity, groups need to be composed of individuals
 that will approach a solution from different perspectives.
