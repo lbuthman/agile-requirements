@@ -3,7 +3,7 @@
 - Avoid keeping two versions of specifications. If, for political or organizational reasons, a company needs sign-off, do so
 on these acceptance criteria tests.
 
-- To transition from the example workshop to usable tests, pair down the list with on representation per example set, making
+- To transition from the example workshop to usable tests, pair down the list with one representation per example set, making
 sure to include examples that may lead to bugs if not addressed.
 
 - Watch out for test scripts that document a workflow. These tends to focus on how something should be tested rather than
