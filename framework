@@ -21,5 +21,24 @@ allowing people to work out for themselves when they understand each other corre
 space separating requirements and tests becomes thin to none. This leads to the idea of Examples which can become
 Tests which then verify requirements. Examples also elaborate Requirements.
 
+- It is important to ellicit comprehensive examples, especially ones where things go wrong. Developers should not
+be making decisions about the business model. A set of criteria follows:
+  1) Normal use
+  2) Abnormal but reasonable use
+  3) Abnormal and unreasonable use
+Unreasonable means something a sane person would not do but could still realistically happen.
 
+- Merely expressing specifications via realistic examples instead of abstract sentences is not enough; the
+team needs to have open discussions and ensure everyone understands the same thing.
 
+- Many communication problems occur around jargon and terms that mean different things in different worlds. One
+approach is to rely on bilingual interpreters that understand both worlds. However, these people will become
+bottlenecks and may not even be correct in all cases. Another approach is to create a shared language, leaning
+toward the business side of the language, since business goals are the driving force for projects.
+- During the specification workshops, a language develops around the project, however, it will not necessarily be 100%
+consistent. It is important to resolve the discrepancies as they arise during the formal naming process in development
+and test creation. Developers should reach out to the customer/business to resolve these things.
+
+- Describe - Demonstrate - Develop (repeat)
+
+"There's no sense being exact about something if you don't know what you are talking about." - John von Neumann
