@@ -1,1 +1,25 @@
+1) Use real-world examples to build a shared understanding of the domain.
+2) Select a set of these examples to be a specification and acceptance testing suite.
+3) Automate verification of the acceptance tests.
+4) Focus the software development effort on the acceptance tests.
+5) Use the set of acceptance tests to facilitate discussion about future change requests, effectively going back
+to step 1 for a new cycle of development.
+
+- The example of the five pointed star is very interesting. The "obvious" answer is obvious to each person and
+completely dependent on how they interpret/process the task. For this example, any answer is the right answer,
+but for software development, there is only one right answer: the one that the business people/customer thought of.
+
+- Mission Command in the Army -> Why something needs to be done as a contrast to Imperative Command, saying What
+needs to be done. Describing how and what but leaving out why leaves the project's success to pure chance. Instead of technical
+specification documents, we need to focus on getting the communication right, involving devs and testers
+from the start.
+
+- Instead of handing down incomplete abstract requirements, the focus should be on facilitating the flow of information,
+allowing people to work out for themselves when they understand each other correctly.
+
+- By writing black-box, functional tests up front, technical details of the solution are gotten to immediately and the
+space separating requirements and tests becomes thin to none. This leads to the idea of Examples which can become
+Tests which then verify requirements. Examples also elaborate Requirements.
+
+
 
