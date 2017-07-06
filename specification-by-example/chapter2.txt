@@ -1,1 +1,10 @@
+- Build the project the right way and build the right project.
 
+1) Deriving scope from goals
+  -> business user's focus on communicating the intent of the desired feature and the value they expect to get from it. The
+  team can then suggest solutions that are cheaper, faster, and easier to maintain.
+2) Specifying collaboratively
+  -> create a collective ownership of the specification by not relying on a single person to get the specification right
+  in isolation
+3) Illustrating using examples
+  -> <pick back up here>
